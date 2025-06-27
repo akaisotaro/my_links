@@ -1,5 +1,5 @@
 # my_links
-# 公開ゲーム一覧 🎮
+公開ゲーム一覧 🎮
 
 - [華丸大吉クイズ](https://akaisotaro.github.io/hanamaru-daikichi-quiz/)
 
